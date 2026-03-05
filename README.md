@@ -42,29 +42,44 @@ Currently working with Next.js, PostgreSQL, automation workflows and AI related 
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
 </a>
 
-<a href="https://nodejs.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<a href="https://www.typescriptlang.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 
+<a href="https://nodejs.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.php.net">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+</a>
+
 <a href="https://www.postgresql.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 </a>
 
+<a href="https://tailwindcss.com">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+</a>
 
-<a href="https://vercel.com">
-<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" width="40" height="40"/>
+<a href="https://getbootstrap.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://sass-lang.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
+<a href="https://vercel.com">
+<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" width="40" height="40"/>
+</a>
+
+<a href="https://n8n.io">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" height="40"/>
 </a>
 
 </p>
