@@ -21,7 +21,7 @@ Currently working with Next.js, PostgreSQL, automation workflows and AI related 
 
 ### 🌐 Connect with me
 
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
 <a href="https://www.linkedin.com/in/senemdemir/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
