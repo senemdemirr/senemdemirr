@@ -32,7 +32,7 @@ Currently working with Next.js, PostgreSQL, automation workflows and AI related 
 
 ### 🚀 Tech Stack
 
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
 <a href="https://react.dev">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
